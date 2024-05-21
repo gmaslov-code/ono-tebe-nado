@@ -29,5 +29,5 @@ https://github.com/gmaslov-code/ono-tebe-nado
 
 ## Источники
 [Бэм методология](https://ru.bem.info/)  
-[Гайд по flexbox](https://doka.guide/css/flexbox-guide/)  
+[Гайд по Flexbox](https://doka.guide/css/flexbox-guide/)  
 [Гайд по Grid](https://doka.guide/css/grid-guide/)  
