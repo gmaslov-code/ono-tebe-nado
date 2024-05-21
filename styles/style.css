@@ -80,9 +80,7 @@
   row-gap: 135px;
   padding: 165px 50px 51px;
   color: #fff;
-  background-image: url(../images/cover.jpg);
-  background-position: center;
-  background-size: cover;
+  background: url(../images/cover.jpg) center / cover;
 }
 
 .overlay {
@@ -144,6 +142,7 @@
   height: 51px;
   border: 1px solid #fff;
   color: #fff;
+  font-family: Raleway, Arial, Helvetica, "Nimbus Sans L", sans-serif;
   font-weight: 500;
   font-size: 22px;
   text-transform: uppercase;
@@ -162,13 +161,10 @@
 }
 
 .lots__heading {
+  margin-left: 40px;
   font-weight: 700;
   font-size: 40px;
   text-transform: uppercase;
-}
-
-.lots__item_margin_left {
-  margin-left: 40px;
 }
 
 .lots__card-list {
@@ -228,6 +224,7 @@
 }
 
 .lots__look-more-link {
+  margin-left: 40px;
   border-bottom: 1px solid black;
   font-weight: 400;
   font-size: 20px;
@@ -313,8 +310,8 @@
   display: flex;
   justify-self: end;
   justify-content: space-between;
-  list-style: none;
   gap: 48px;
+  list-style: none;
 }
 
 .footer__social-link {
